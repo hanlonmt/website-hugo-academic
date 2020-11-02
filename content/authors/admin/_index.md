@@ -47,11 +47,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-5616-8203
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
-   icon_pack: ai
-   link: files/Hanlon_CV_2020_10.pdf
+  icon_pack: ai
+  link: files/Hanlon_CV_2020_10.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,5 +67,4 @@ highlight_name: true
 I am an experienced root biologist with expertise in plant mineral nutrition, plant‑soil relations, and plant growth
 under stress. I have worked and managed interdisciplinary teams of engineers, computational scientists, image analysts,
 and biologists to try to build tools to allow us to effectively phenotype roots and identify genes that underlie
-beneficial root traits. My skills include phenotyping, image analysis, field trial design and implementation, coding
-in R, and plant physiology.
+beneficial root traits. My skills include phenotyping, image analysis, field trial design and implementation, and R.

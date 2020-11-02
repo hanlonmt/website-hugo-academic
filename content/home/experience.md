@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Scholar"
+  company = "Department of Plant Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Penn State University"
+  date_start = "2018-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """In the lab of Dr. Jonathan Lynch, my research project is part of the larger ARPA-E DEEPER program. My research project is LEADER: Leaf Elemental Accumulation from deep roots. I use advanced sensing to determine root depth via leaf elemental content"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Project Manager"
+  company = "DEEPER: An integrated phenotyping platform for deeper roots"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Penn State University"
+  date_start = "2017-07-01"
+  date_end = ""
+  description = """Managed the ARPA-E funded DEEPER project, which includes over 20 researchers at four institutions. Researchers include plant scientists, geneticists, image analysts, computer scientists, and engineers. Responsibilities include reporting to the agency quarterly, managing tech-to-market components, and meeting milestones on all aspects of the project. """
+
+  [[experience]]
+    title = "PhD Student"
+    company = "Plant Biology Program, Huck Institute of Life Sciences"
+    company_url = ""
+    location = "Penn State University"
+    date_start = "2017-07-01"
+    date_end = ""
+    description = """Completed an NSF-GRFP funded PhD with Dr. Kathleen M. Brown, titled 'New perspectives on conventional ideas about root system architecture and morphology' """
 
 +++
