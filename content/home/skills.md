@@ -66,13 +66,13 @@ subtitle = "A blend of scientific, analytical, and life skills"
   icon = "futbol"
   icon_pack = "fas"
   name = "Soccer"
-  description = "Both a fan and player"
+  description = "Always up for a (slow) small-sided game"
 
 [[feature]]
   icon = "swimmer"
   icon_pack = "fas"
   name = "Swimming"
-  description = "The best way to blow off some steam"
+  description = "I travel with goggles"
 
 [[feature]]
   icon = "bicycle"
